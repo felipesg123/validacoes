@@ -27,4 +27,4 @@ se o CPF fornecido é válido de acordo com as regras brasileiras.
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/validador-email-cpf.git
+   git clone https://github.com/felipesg123/validacoes.git
